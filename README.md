@@ -1,7 +1,12 @@
 # Q-A-Bot with Retrieval-Augmented Generation (RAG)
 
-This repository contains the implementation of a Question Answering (QA) Bot powered by a Retrieval-Augmented Generation (RAG) model. The bot utilizes a vector database for efficient document retrieval and a generative model for producing coherent answers based on the content of the documents.
+Q-A-Bot is a question-answering bot that extracts answers from a PDF document uploaded by the user. Built using Streamlit for the frontend and various libraries for document processing, Q-A-Bot provides an interactive way to query information from PDFs.
 
+## Features
+
+- Upload a PDF document to extract information.
+- Ask questions related to the content of the PDF.
+- Answers are generated using the Cohere API for natural language processing
 ## Table of Contents
 
 - [Introduction](#introduction)
