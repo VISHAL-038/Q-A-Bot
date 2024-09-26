@@ -15,8 +15,6 @@ Q-A-Bot is a question-answering bot that extracts answers from a PDF document up
 - [Installation](#installation)
 - [Usage](#usage)
 - [Running the Application](#running-the-application)
-- [Docker Setup](#docker-setup)
-- [Future Enhancements](#future-enhancements)
 
 ## Introduction
 
